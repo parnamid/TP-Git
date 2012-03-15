@@ -39,6 +39,7 @@ Git par la pratique
 
         git push
 
+* Dans GitHub faites une demande d'intégration (pull request).
 
 Liste des étudiants ayant réussi ce TP
 --------------------------------------
